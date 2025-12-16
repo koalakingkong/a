@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mentari_tv" group-title="KIDS", Mentari TV
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://multidrm.visionplus.id/license/widevine|dt-custom-data=eyJraWQiOiJjMTgxOTkzYy1mODUyLTQ0MmQtOTY1Yi1hMmI3MzU4ZGI5NjkiLCJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjEsImlzcyI6InZpc2lvbnBsdXMiLCJzdWIiOiIwMDAwMDAwMDAwMDAwMDAwMDAyMCIsImlhdCI6MTc2NTg3NjkwNCwiZXhwIjoxNzY1ODc3NTA0LCJqdGkiOiIzMTQxNjZkMi02NWY1LTRlZjctYjdmNy1kNzI1OTNiZGI2Y2YiLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsInBvbGljeSI6eyJ3aWRldmluZSI6eyJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJjYW5fcGVyc2lzdCI6ZmFsc2V9fSwiaXp6aUN1c3RvbWVyIjoiTU5DOjM0NDQwMzAzIiwiaXp6aURldmljZUlkIjoiMTNjZWZlN2UtNGZiNy00MmMyLTlmNWYtNjhiM2U4ZjU3ODFkIiwiaXp6aVZJUCI6ZmFsc2V9.KVrPO8XcveOlLs6UAhacHye5Mpju7QKzh9SS4GZexW5h-D8fQEDke_frl-IpoG-FFZ3YccaKvewnomdKdZ5iIg&Content-Type=application/octet-stream|R{SSM}|
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+#EXTINF:-1 tvg-id="mentari_tv" tvg-logo="https://www.visionplus.id/api/v1/image/service/20" group-title="KIDS", Mentari TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:2895687790b9b6910e99a845116cdc15
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd|Referer=https://www.visionplus.id/&Origin=https://www.visionplus.id/
